@@ -59,6 +59,10 @@ h2,h3,h4,h5,h6 {
 
 .aslp.header {
 
+
+  background: url("https://joepacal.github.io/kistorm-aslp/assets/img-subpage-bg.svg") no-repeat 100% 0%;
+  background-size: 342px, cover;
+
   display: flex;
   flex-flow: row wrap-reverse;
 
