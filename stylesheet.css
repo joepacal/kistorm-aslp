@@ -28,6 +28,25 @@ h2,h3,h4,h5,h6 {
   margin-bottom: 1rem;
 }
 
+
+.divider-left {
+
+  border-bottom: 1px solid #EB5C98;
+  width:50%;
+  margin: -1rem 0 3rem 0;
+
+}
+
+.divider-right {
+
+  border-bottom: 1px solid #EB5C98;
+  width:50%;
+  margin: -1rem 0 3rem 50%;
+
+}
+
+
+
 .aslp.intro {
   
   background: url("https://joepacal.github.io/kistorm-aslp/assets/img-home-bg.svg") no-repeat 100% 0%;
