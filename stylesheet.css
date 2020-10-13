@@ -30,7 +30,7 @@ h2,h3,h4,h5,h6 {
 
 .aslp.intro {
   
-  background: url("https://joepacal.github.io/kistorm-cancerviz/assets/img-home-bg.svg") no-repeat 100% 0%;
+  background: url("https://joepacal.github.io/kistorm-aslp/assets/img-home-bg.svg") no-repeat 100% 0%;
   background-size: 342px, cover;
 
   padding: 0rem 1rem 2rem 1rem;
@@ -46,7 +46,7 @@ h2,h3,h4,h5,h6 {
   justify-content: space-between;
   align-items: flex-end;
 
-  background: url("https://joepacal.github.io/kistorm-cancerviz/assets/bg-bannerCell.png") no-repeat 100% 0%;
+  background: url("https://joepacal.github.io/kistorm-aslp/assets/bg-bannerCell.png") no-repeat 100% 0%;
   border-top: solid 1px #E05F38;
   background-size: 256px, cover;
 
