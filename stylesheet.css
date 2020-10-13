@@ -9,7 +9,7 @@
 .aslp .col-xs-12 img{max-width: 30%;padding-bottom:10px;}
 .aslp .welcome-header {max-width: 5em; padding-top: 0.5em;}
 
-.slack {max-width: 8em; border: .15em solid #EB5C98; border-radius:.8em; transition: all .2s ease-in-out;}
+.slack {max-width: 8em; border: .15em solid #E05F38; border-radius:.8em; transition: all .2s ease-in-out;}
 .slack:hover {transform: scale(1.1);}
 
 hr {
@@ -19,7 +19,7 @@ hr {
 a {
 
   text-decoration: underline;
-  color: #EB5C98;
+  color: #E05F38;
 
 }
 
@@ -29,7 +29,7 @@ h2,h3,h4,h5,h6 {
 
 .aslp.intro {
   
-  background: url("https://joepacal.github.io/kistorm-cancerviz/assets/bg-vizCellGray.svg") no-repeat 100% 0%;
+  background: url("https://joepacal.github.io/kistorm-cancerviz/assets/img-home-bg.svg") no-repeat 100% 0%;
   background-size: 342px, cover;
 
   padding: 0rem 1rem 2rem 1rem;
@@ -46,10 +46,10 @@ h2,h3,h4,h5,h6 {
   align-items: flex-end;
 
   background: url("https://joepacal.github.io/kistorm-cancerviz/assets/bg-bannerCell.png") no-repeat 100% 0%;
-  border-top: solid 1px #EB5C98;
+  border-top: solid 1px #E05F38;
   background-size: 256px, cover;
 
-  color: #EB5C98;
+  color: #E05F38;
 
   padding: 1rem 2rem 1.5rem 1rem;
   margin-bottom: -1rem;
@@ -59,7 +59,7 @@ h2,h3,h4,h5,h6 {
 }
 
 .aslp.title {
-  color: #EB5C98;
+  color: #E05F38;
   padding: 0.5rem 1rem 0.5rem 0; 
   
 
