@@ -80,8 +80,39 @@ h2,h3,h4,h5,h6 {
 
 }
 
+.aslp2.header {
+
+  background: url("https://joepacal.github.io/kistorm-aslp/assets/img-subpage-bg.svg") no-repeat 100% 0%;
+  background-size: 342px, cover;
+
+  display: flex;
+  flex-flow: row wrap-reverse;
+
+  justify-content: space-between;
+  align-items: flex-end;
+
+  border-top: solid 1px #A14225;
+  background-size: 256px, cover;
+  color: #A14225;
+
+  padding: 1rem 2rem 1.5rem 1rem;
+  margin-bottom: -1rem;
+  min-height: 5rem;
+
+
+}
+
 .aslp.title {
+
   color: #E05F38;
+  padding: 0.5rem 1rem 0.5rem 0; 
+  
+
+}
+
+.aslp2.title {
+
+  color: #A14225;
   padding: 0.5rem 1rem 0.5rem 0; 
   
 
